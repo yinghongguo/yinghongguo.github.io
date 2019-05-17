@@ -5,9 +5,9 @@ header-img: img/gyh2.jpg
 email: guoyinghong@gmail.com
 description: "Every failure is leading towards success."
 keyword: "通信技术"
-url: "http://xxcclong.github.io"          # your host, for absolute URL
+url: "http://yinghongguo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xxcclong/xxcclong.github.io.git" # you code repository
+github_repo: "https://github.com/yinghongguo/yinghongguo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
